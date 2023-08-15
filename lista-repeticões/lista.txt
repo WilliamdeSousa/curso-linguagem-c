@@ -1,0 +1,14 @@
+Lista de exercícios de repetições em C:
+
+01. Escreva um programa que imprima os números inteiros de 1 a 10 usando um loop for.
+02. Escreva um programa que solicite ao usuário um número inteiro positivo e imprima todos os números pares de 0 até esse número usando um loop while.
+03. Escreva um programa que calcule e imprima a soma dos números inteiros de 1 a 100 usando um loop do-while.
+04. Escreva um programa que solicite ao usuário um número inteiro positivo e calcule o fatorial desse número usando um loop for.
+05. Escreva um programa que solicite ao usuário um número inteiro positivo e verifique se é um número primo usando um loop for.
+06. Escreva um programa que imprima a sequência de Fibonacci até o décimo termo usando um loop while.
+07. Escreva um programa que leia uma sequência de números inteiros do usuário e encontre o maior e o menor número usando um loop for.
+08. Escreva um programa que imprima os primeiros 20 termos da série de Fibonacci usando um loop for.
+09. Escreva um programa que leia um número inteiro do usuário e imprima a tabuada desse número de 1 a 10 usando um loop for.
+10. Escreva um programa que solicite ao usuário uma quantidade indefinida de números inteiros até que ele digite 0. Em seguida, o programa deve calcular e imprimir a soma e a média dos números digitados, excluindo o zero, usando um loop do-while.
+
+Criado pelo ChatGPT 2023-07-04 08:30.

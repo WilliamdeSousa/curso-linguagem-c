@@ -1,0 +1,1 @@
+// 09. Escreva um programa que leia 10 números inteiros do usuário e armazene-os em um vetor. Em seguida, o programa deve substituir todos os números negativos do vetor por zero e imprimir o vetor resultante.

@@ -1,0 +1,14 @@
+Lista de exercícios de condicionais em C:
+
+01. Escreva um programa em C que verifica se um número é positivo, negativo ou zero.
+02. Escreva um programa em C que verifica se um número é par ou ímpar.
+03. Escreva um programa em C que verifica se um ano é bissexto.
+04. Escreva um programa em C que calcula a média de três números e verifica se a média é maior que 7.
+05. Escreva um programa em C que verifica se um número é divisível por 3 e 5.
+06. Escreva um programa em C que verifica se uma letra digitada é uma vogal ou uma consoante.
+07. Escreva um programa em C que verifica se um número é primo.
+08. Escreva um programa em C que verifica se um número é positivo e múltiplo de 5.
+09. Escreva um programa em C que verifica se uma pessoa é maior de idade.
+10. Escreva um programa em C que verifica se um número é um quadrado perfeito.
+
+Criado pelo ChatGPT 2023-07-03 16:40.

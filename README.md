@@ -1,2 +1,2 @@
 # curso-linguagem-c
- Curso de  Linguagem C básica do canal Pietro Martins de Oliveira
+Curso de  Linguagem C Básica do Canal Pietro Martins de Oliveira.

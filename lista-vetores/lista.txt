@@ -1,0 +1,14 @@
+Lista de exercícios de condicionais em C:
+
+01. Escreva um programa que leia 5 números inteiros do usuário e armazene-os em um vetor. Em seguida, o programa deve imprimir os números na ordem inversa em que foram digitados.
+02. Escreva um programa que leia 10 números inteiros do usuário e armazene-os em um vetor. Em seguida, o programa deve encontrar e imprimir o maior e o menor número do vetor.
+03. Escreva um programa que leia 5 números inteiros do usuário e armazene-os em um vetor. Em seguida, o programa deve calcular e imprimir a média dos números do vetor.
+04. Escreva um programa que leia 10 números inteiros do usuário e armazene-os em um vetor. Em seguida, o programa deve verificar se existe algum número repetido no vetor e imprimir uma mensagem indicando isso.
+05. Escreva um programa que leia 5 nomes do usuário e armazene-os em um vetor de strings. Em seguida, o programa deve imprimir os nomes em ordem alfabética.
+06. Escreva um programa que leia 10 números inteiros do usuário e armazene-os em um vetor. Em seguida, o programa deve ordenar os números em ordem crescente e imprimir o vetor ordenado.
+07. Escreva um programa que leia 5 palavras do usuário e armazene-as em um vetor de strings. Em seguida, o programa deve imprimir a palavra mais longa e a palavra mais curta do vetor.
+08. Escreva um programa que leia 10 números inteiros do usuário e armazene-os em um vetor. Em seguida, o programa deve calcular e imprimir a soma dos números pares do vetor.
+09. Escreva um programa que leia 10 números inteiros do usuário e armazene-os em um vetor. Em seguida, o programa deve substituir todos os números negativos do vetor por zero e imprimir o vetor resultante.
+10. Escreva um programa que leia 10 números inteiros do usuário e armazene-os em um vetor. Em seguida, o programa deve calcular e imprimir a média dos números pares do vetor.
+
+Criado pelo ChatGPT 2023-07-07 10:30.

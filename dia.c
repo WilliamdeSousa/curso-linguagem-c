@@ -7,10 +7,8 @@ int main(void)
 	{
 		printf("Digite um número entre 1 e 7: ");
 		scanf("%d", &dia);
-	} while (dia < 1 || dia > 7);
-
-	switch (dia)
-	{
+		switch (dia)
+		{
 		case 1:
 			printf("Domingo\n");
 			break;
@@ -33,7 +31,8 @@ int main(void)
 			printf("Sábado\n");
 			break;
 		default:
-			printf("Valor inválido!");
-			break; 
-	}
+			printf("Valor inválido! ");
+			break;
+		}
+	} while (dia < 1 || dia > 7);
 }
