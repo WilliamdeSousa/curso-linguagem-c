@@ -1,0 +1,22 @@
+Digite um número:
+Digite um número:
+Digite um número:
+Digite um número:
+Digite um número:
+Digite um número:
+Digite um número:
+Digite um número:
+Digite um número:
+Digite um número:
+ordenado[0] = 10
+ordenado[1] = 9
+ordenado[2] = 8
+ordenado[3] = 7
+ordenado[4] = 6
+ordenado[5] = 5
+ordenado[6] = 4
+ordenado[7] = 3
+ordenado[8] = 2
+ordenado[9] = 1
+10 9 8 7 6 5 4 3 2 1 
+10 9 8 7 6 5 4 3 2 1 
